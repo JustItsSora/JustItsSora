@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/JustItsSora/vaporstrap"><img alt="Vaporstrap" src="https://img.shields.io/badge/Vaporstrap-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -76,15 +75,6 @@ Descubridor y aplicador de fondos de pantalla para Linux. Indexa repositorios
 de GitHub sin clonarlos, busca con tolerancia a errores de tipeo sobre SQLite
 FTS5 y aplica el fondo en el escritorio real, con vista previa por monitor.
 Sin navegador embebido ni Electron.
-
-### Vaporstrap — lanzador de Roblox para Linux
-<a href="https://github.com/JustItsSora/vaporstrap"><img alt="repo" src="https://img.shields.io/badge/repo-vaporstrap-000000?style=flat-square&logo=github&logoColor=white"></a>
-<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-<img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white">
-
-Bootstrapper de código abierto para jugar Roblox de forma nativa en Linux:
-editor de FastFlags, perfiles de rendimiento, mods, Discord RPC y multi-cuenta
-sobre un motor externo. Sin Wine, sin emulador y sin máquina virtual.
 
 ## Capri en acción
 
