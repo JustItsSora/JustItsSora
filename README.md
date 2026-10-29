@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kyuog/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="https://github.com/kyuog/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/kyuog/vaporstrap"><img alt="Vaporstrap" src="https://img.shields.io/badge/Vaporstrap-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/vaporstrap"><img alt="Vaporstrap" src="https://img.shields.io/badge/Vaporstrap-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -47,15 +47,15 @@ un asistente.
 
 <p align="center">
   <img src="assets/cards/langs-card.png" alt="Lenguajes" width="48%">
-  <a href="https://github.com/kyuog"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuog&theme=dark&hide_border=true&background=0B0E1A&stroke=2E3452&ring=E6224D&fire=34E0A1&currStreakLabel=34E0A1&sideLabels=8992B0&dates=8992B0" alt="Racha de contribuciones" width="48%"></a>
+  <a href="https://github.com/JustItsSora"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustItsSora&theme=dark&hide_border=true&background=0B0E1A&stroke=2E3452&ring=E6224D&fire=34E0A1&currStreakLabel=34E0A1&sideLabels=8992B0&dates=8992B0" alt="Racha de contribuciones" width="48%"></a>
 </p>
 
 ## Proyectos
 
 ### Capri Desktop — asistente de escritorio con IA
-<a href="https://github.com/kyuog/capri-desktop-linux"><img alt="repo" src="https://img.shields.io/badge/repo-capri--desktop--linux-E6224D?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="repo" src="https://img.shields.io/badge/repo-capri--desktop--linux-E6224D?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="C#" src="https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-<img alt="release" src="https://img.shields.io/github/v/release/kyuog/capri-desktop-linux?style=flat-square&color=34E0A1&label=release">
+<img alt="release" src="https://img.shields.io/github/v/release/JustItsSora/capri-desktop-linux?style=flat-square&color=34E0A1&label=release">
 
 Fork comunitario de Capri, la mascota de escritorio con IA. Esta versión hace
 que el build de Linux sea realmente útil: **control de ventanas en X11**, manos
@@ -68,7 +68,7 @@ para teclado, ratón, portapapeles, recordatorios y energía, cerebros en la nub
 ```
 
 ### Kabe — fondos de pantalla en alta resolución
-<a href="https://github.com/kyuog/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-3776AB?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/JustItsSora/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-3776AB?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="Python" src="https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="GTK" src="https://img.shields.io/badge/GTK3-4A86CF?style=flat-square&logo=gtk&logoColor=white">
 
@@ -78,7 +78,7 @@ FTS5 y aplica el fondo en el escritorio real, con vista previa por monitor.
 Sin navegador embebido ni Electron.
 
 ### Vaporstrap — lanzador de Roblox para Linux
-<a href="https://github.com/kyuog/vaporstrap"><img alt="repo" src="https://img.shields.io/badge/repo-vaporstrap-000000?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/JustItsSora/vaporstrap"><img alt="repo" src="https://img.shields.io/badge/repo-vaporstrap-000000?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white">
 
