@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Xenovia Quarta Desktop" src="https://img.shields.io/badge/Xenovia Quarta%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
@@ -51,19 +51,19 @@ un asistente.
 
 ## Proyectos
 
-### Capri Desktop — asistente de escritorio con IA
+### Xenovia Quarta Desktop — asistente de escritorio con IA
 <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="repo" src="https://img.shields.io/badge/repo-capri--desktop--linux-E6224D?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="C#" src="https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 <img alt="release" src="https://img.shields.io/github/v/release/JustItsSora/capri-desktop-linux?style=flat-square&color=34E0A1&label=release">
 
-Fork comunitario de Capri, la mascota de escritorio con IA. Esta versión hace
+Fork comunitario de Xenovia Quarta, la mascota de escritorio con IA. Esta versión hace
 que el build de Linux sea realmente útil: **control de ventanas en X11**, manos
 para teclado, ratón, portapapeles, recordatorios y energía, cerebros en la nube
 (NVIDIA, OpenAI, Claude) y binarios de un solo archivo.
 
 ```bash
 ./build-linux.sh
-./out/linux/Capri --hands "abre Firefox y busca el clima"
+./out/linux/Xenovia --hands "abre Firefox y busca el clima"
 ```
 
 ### Kabe — fondos de pantalla en alta resolución
@@ -76,19 +76,19 @@ de GitHub sin clonarlos, busca con tolerancia a errores de tipeo sobre SQLite
 FTS5 y aplica el fondo en el escritorio real, con vista previa por monitor.
 Sin navegador embebido ni Electron.
 
-## Capri en acción
+## Xenovia Quarta en acción
 
 <p align="center">
-  <img src="assets/gifs/capri-idle.gif" alt="Capri en reposo" width="22%">
-  <img src="assets/gifs/capri-dance.gif" alt="Capri bailando" width="22%">
-  <img src="assets/gifs/capri-grin.gif" alt="Capri sonriendo" width="22%">
-  <img src="assets/gifs/capri-glitch.gif" alt="Capri glitcheando" width="22%">
+  <img src="assets/gifs/capri-idle.gif" alt="Xenovia Quarta en reposo" width="22%">
+  <img src="assets/gifs/capri-dance.gif" alt="Xenovia Quarta bailando" width="22%">
+  <img src="assets/gifs/capri-grin.gif" alt="Xenovia Quarta sonriendo" width="22%">
+  <img src="assets/gifs/capri-glitch.gif" alt="Xenovia Quarta glitcheando" width="22%">
 </p>
 <p align="center">
-  <img src="assets/gifs/capri-arrive.gif" alt="Capri llegando" width="22%">
-  <img src="assets/gifs/capri-blink.gif" alt="Capri parpadeando" width="22%">
-  <img src="assets/gifs/capri-sleep.gif" alt="Capri durmiendo" width="22%">
-  <img src="assets/gifs/capri-perch.gif" alt="Capri posada" width="22%">
+  <img src="assets/gifs/capri-arrive.gif" alt="Xenovia Quarta llegando" width="22%">
+  <img src="assets/gifs/capri-blink.gif" alt="Xenovia Quarta parpadeando" width="22%">
+  <img src="assets/gifs/capri-sleep.gif" alt="Xenovia Quarta durmiendo" width="22%">
+  <img src="assets/gifs/capri-perch.gif" alt="Xenovia Quarta posada" width="22%">
 </p>
 
 ---
