@@ -26,6 +26,10 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black">
 </p>
 
+<p align="center">
+  <img src="assets/ascii.svg" alt="Retrato ASCII animado de Xenovia Quarta" width="480">
+</p>
+
 ---
 
 ## Sobre mí
