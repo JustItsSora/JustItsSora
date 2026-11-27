@@ -20,7 +20,6 @@
 </p>
 
 <p align="center">
-  <img alt="Xenovia Quarta" src="https://img.shields.io/badge/Xenovia%20Quarta-High%20School%20DxD-1B4FBA?style=flat-square">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -100,5 +99,5 @@ Sin navegador embebido ni Electron.
 ---
 
 <p align="center">
-  <sub>Hecho en Linux, con C#, Python y Rust. Espada en mano.</sub>
+  <sub>Hecho en Linux, con C#, Python y Rust.</sub>
 </p>
