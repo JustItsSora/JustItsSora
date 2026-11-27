@@ -42,6 +42,10 @@ un asistente.
   Wayland, y las herramientas que no piden un navegador embebido para existir.
 - Cuando algo del software libre no encaja en Linux, lo adapto y lo publico.
 
+<p align="center">
+  <img src="assets/xenovia/xenovia-fury.gif" alt="Xenovia Quarta con Durandal" width="260">
+</p>
+
 ## Estadísticas
 
 <p align="center">
