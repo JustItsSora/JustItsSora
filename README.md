@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-1B4FBA?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ un asistente.
   <a href="https://github.com/JustItsSora"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustItsSora&theme=dark&hide_border=true&background=0B0E1A&stroke=2E3452&ring=1B4FBA&fire=34E0A1&currStreakLabel=34E0A1&sideLabels=8992B0&dates=8992B0" alt="Racha de contribuciones" width="48%"></a>
 </p>
 
-## Armería
+## Proyectos
 
 ### Capri Desktop — asistente de escritorio con IA
 <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="repo" src="https://img.shields.io/badge/repo-capri--desktop--linux-E6224D?style=flat-square&logo=github&logoColor=white"></a>
@@ -75,7 +75,7 @@ para teclado, ratón, portapapeles, recordatorios y energía, cerebros en la nub
 ```
 
 ### Kabe — fondos de pantalla en alta resolución
-<a href="https://github.com/JustItsSora/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-1B4FBA?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/JustItsSora/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-3776AB?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="Python" src="https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="GTK" src="https://img.shields.io/badge/GTK3-4A86CF?style=flat-square&logo=gtk&logoColor=white">
 
@@ -83,6 +83,21 @@ Descubridor y aplicador de fondos de pantalla para Linux. Indexa repositorios
 de GitHub sin clonarlos, busca con tolerancia a errores de tipeo sobre SQLite
 FTS5 y aplica el fondo en el escritorio real, con vista previa por monitor.
 Sin navegador embebido ni Electron.
+
+## Capri en acción
+
+<p align="center">
+  <img src="assets/gifs/capri-idle.gif" alt="Capri en reposo" width="22%">
+  <img src="assets/gifs/capri-dance.gif" alt="Capri bailando" width="22%">
+  <img src="assets/gifs/capri-grin.gif" alt="Capri sonriendo" width="22%">
+  <img src="assets/gifs/capri-glitch.gif" alt="Capri glitcheando" width="22%">
+</p>
+<p align="center">
+  <img src="assets/gifs/capri-arrive.gif" alt="Capri llegando" width="22%">
+  <img src="assets/gifs/capri-blink.gif" alt="Capri parpadeando" width="22%">
+  <img src="assets/gifs/capri-sleep.gif" alt="Capri durmiendo" width="22%">
+  <img src="assets/gifs/capri-perch.gif" alt="Capri posada" width="22%">
+</p>
 
 ## Xenovia en movimiento
 
