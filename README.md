@@ -1,29 +1,37 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="JustItsSora" width="100%">
+  <img src="assets/banner.jpg" alt="Xenovia Quarta · High School DxD" width="100%">
+</div>
+
+<div align="center">
+  <img src="assets/avatar.jpg" alt="Xenovia Quarta" width="120">
 </div>
 
 <h1 align="center">JustItsSora</h1>
 
 <p align="center">
   <b>Desarrollador de software</b><br>
+  <i>Disciplina de espada, código de Linux.</i><br>
   Herramientas de escritorio y utilidades para Linux · C# · Python · Rust
 </p>
 
 <p align="center">
   <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="Capri Desktop" src="https://img.shields.io/badge/Capri%20Desktop-C%23-E6224D?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/JustItsSora/kabe"><img alt="Kabe" src="https://img.shields.io/badge/Kabe-Python-1B4FBA?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
 <p align="center">
+  <img alt="Xenovia Quarta" src="https://img.shields.io/badge/Xenovia%20Quarta-High%20School%20DxD-1B4FBA?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="GTK" src="https://img.shields.io/badge/GTK3-4A86CF?style=for-the-badge&logo=gtk&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
 ## Sobre mí
+
+> Estética inspirada en **Xenovia Quarta** (*High School DxD*): azul cobalto,
+> acero y una disciplina que se afila con cada commit.
 
 Programo sobre Linux y me gusta que las herramientas sean **ligeras, nativas y
 sin capas de más**. La mayor parte de lo que construyo son aplicaciones de
@@ -46,10 +54,10 @@ un asistente.
 
 <p align="center">
   <img src="assets/cards/langs-card.png" alt="Lenguajes" width="48%">
-  <a href="https://github.com/JustItsSora"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustItsSora&theme=dark&hide_border=true&background=0B0E1A&stroke=2E3452&ring=E6224D&fire=34E0A1&currStreakLabel=34E0A1&sideLabels=8992B0&dates=8992B0" alt="Racha de contribuciones" width="48%"></a>
+  <a href="https://github.com/JustItsSora"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustItsSora&theme=dark&hide_border=true&background=0B0E1A&stroke=2E3452&ring=1B4FBA&fire=34E0A1&currStreakLabel=34E0A1&sideLabels=8992B0&dates=8992B0" alt="Racha de contribuciones" width="48%"></a>
 </p>
 
-## Proyectos
+## Armería
 
 ### Capri Desktop — asistente de escritorio con IA
 <a href="https://github.com/JustItsSora/capri-desktop-linux"><img alt="repo" src="https://img.shields.io/badge/repo-capri--desktop--linux-E6224D?style=flat-square&logo=github&logoColor=white"></a>
@@ -67,7 +75,7 @@ para teclado, ratón, portapapeles, recordatorios y energía, cerebros en la nub
 ```
 
 ### Kabe — fondos de pantalla en alta resolución
-<a href="https://github.com/JustItsSora/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-3776AB?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/JustItsSora/kabe"><img alt="repo" src="https://img.shields.io/badge/repo-kabe-1B4FBA?style=flat-square&logo=github&logoColor=white"></a>
 <img alt="Python" src="https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="GTK" src="https://img.shields.io/badge/GTK3-4A86CF?style=flat-square&logo=gtk&logoColor=white">
 
@@ -76,23 +84,30 @@ de GitHub sin clonarlos, busca con tolerancia a errores de tipeo sobre SQLite
 FTS5 y aplica el fondo en el escritorio real, con vista previa por monitor.
 Sin navegador embebido ni Electron.
 
-## Capri en acción
+## Xenovia en movimiento
 
 <p align="center">
-  <img src="assets/gifs/capri-idle.gif" alt="Capri en reposo" width="22%">
-  <img src="assets/gifs/capri-dance.gif" alt="Capri bailando" width="22%">
-  <img src="assets/gifs/capri-grin.gif" alt="Capri sonriendo" width="22%">
-  <img src="assets/gifs/capri-glitch.gif" alt="Capri glitcheando" width="22%">
+  <img src="assets/gifs/xenovia-blue.gif" alt="Xenovia · azul" width="31%">
+  <img src="assets/gifs/xenovia-red.gif" alt="Xenovia · rojo" width="31%">
+  <img src="assets/gifs/xenovia-closeup.gif" alt="Xenovia · primer plano" width="31%">
 </p>
+
+## Galería
+
 <p align="center">
-  <img src="assets/gifs/capri-arrive.gif" alt="Capri llegando" width="22%">
-  <img src="assets/gifs/capri-blink.gif" alt="Capri parpadeando" width="22%">
-  <img src="assets/gifs/capri-sleep.gif" alt="Capri durmiendo" width="22%">
-  <img src="assets/gifs/capri-perch.gif" alt="Capri posada" width="22%">
+  <img src="assets/xenovia/icon-art.jpg" alt="Xenovia · icono ilustrado" width="30%">
+  <img src="assets/xenovia/icon-anime.jpg" alt="Xenovia · icono anime" width="30%">
+  <img src="assets/xenovia/icon-closeup.jpg" alt="Xenovia · icono primer plano" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/xenovia/banner-blue.jpg" alt="Xenovia · banner azul" width="100%">
+  <img src="assets/xenovia/banner-red.jpg" alt="Xenovia · banner rojo" width="100%">
+  <img src="assets/xenovia/banner-closeup.jpg" alt="Xenovia · banner primer plano" width="100%">
 </p>
 
 ---
 
 <p align="center">
-  <sub>Hecho en Linux, con C#, Python y Rust.</sub>
+  <sub>Hecho en Linux, con C#, Python y Rust. Espada en mano.</sub>
 </p>
