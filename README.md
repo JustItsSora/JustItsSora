@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/avatar.jpg" alt="Xenovia Quarta" width="120">
+  <img src="assets/avatar.jpg" alt="Xenovia Quarta" width="96">
 </div>
 
 <h1 align="center">JustItsSora</h1>
@@ -20,18 +20,16 @@
 </p>
 
 <p align="center">
-  <img alt="Xenovia Quarta" src="https://img.shields.io/badge/Xenovia%20Quarta-High%20School%20DxD-1B4FBA?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="GTK" src="https://img.shields.io/badge/GTK3-4A86CF?style=for-the-badge&logo=gtk&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img alt="Xenovia Quarta" src="https://img.shields.io/badge/Xenovia%20Quarta-High%20School%20DxD-1B4FBA?style=flat-square">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black">
 </p>
 
 ---
 
 ## Sobre mí
-
-> Estética inspirada en **Xenovia Quarta** (*High School DxD*): azul cobalto,
-> acero y una disciplina que se afila con cada commit.
 
 Programo sobre Linux y me gusta que las herramientas sean **ligeras, nativas y
 sin capas de más**. La mayor parte de lo que construyo son aplicaciones de
@@ -97,28 +95,6 @@ Sin navegador embebido ni Electron.
   <img src="assets/gifs/capri-blink.gif" alt="Capri parpadeando" width="22%">
   <img src="assets/gifs/capri-sleep.gif" alt="Capri durmiendo" width="22%">
   <img src="assets/gifs/capri-perch.gif" alt="Capri posada" width="22%">
-</p>
-
-## Xenovia en movimiento
-
-<p align="center">
-  <img src="assets/gifs/xenovia-blue.gif" alt="Xenovia · azul" width="31%">
-  <img src="assets/gifs/xenovia-red.gif" alt="Xenovia · rojo" width="31%">
-  <img src="assets/gifs/xenovia-closeup.gif" alt="Xenovia · primer plano" width="31%">
-</p>
-
-## Galería
-
-<p align="center">
-  <img src="assets/xenovia/icon-art.jpg" alt="Xenovia · icono ilustrado" width="30%">
-  <img src="assets/xenovia/icon-anime.jpg" alt="Xenovia · icono anime" width="30%">
-  <img src="assets/xenovia/icon-closeup.jpg" alt="Xenovia · icono primer plano" width="30%">
-</p>
-
-<p align="center">
-  <img src="assets/xenovia/banner-blue.jpg" alt="Xenovia · banner azul" width="100%">
-  <img src="assets/xenovia/banner-red.jpg" alt="Xenovia · banner rojo" width="100%">
-  <img src="assets/xenovia/banner-closeup.jpg" alt="Xenovia · banner primer plano" width="100%">
 </p>
 
 ---
